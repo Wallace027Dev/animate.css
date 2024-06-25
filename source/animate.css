@@ -2,7 +2,6 @@
 @import '_base.css';
 
 /* Attention seekers  */
-@import 'attention_seekers/flash.css';
 @import 'attention_seekers/pulse.css';
 @import 'attention_seekers/rubberBand.css';
 @import 'attention_seekers/shakeX.css';
